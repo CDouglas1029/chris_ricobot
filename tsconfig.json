@@ -5,7 +5,8 @@
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "moduleResolution": "Node",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "types": ["vite/client", "framer-motion"]
   },
   "include": ["src"]
 }
